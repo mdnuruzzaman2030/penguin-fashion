@@ -1,0 +1,42 @@
+/* Navbar  */
+.navbar-brand img{
+    width: 250px;
+    height: 40px;
+
+}
+.navbar-toggler {
+    border-color: transparent !important;
+}
+/* Slider  */
+.text-h1{
+    color: #FA804C;
+}
+
+.text-h2{
+    color: #363958;
+}
+
+.btn {
+    padding: 14px 24px;
+    border: 0 none;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.pen-bg-info{
+    background-color: rgb(34 211 238);
+}
+
+/* Catagory */
+
+.cat-img{
+    width: 200px;
+    
+}
+
+
+
+
+
+
+
